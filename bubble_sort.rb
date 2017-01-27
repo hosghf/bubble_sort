@@ -13,5 +13,5 @@ def bubble_sort(a)
   a
 end
 
-x=[5,3,6,1,2]
+x=[5,3,6,1,2,77,33,22,99]
 puts bubble_sort(x).inspect
